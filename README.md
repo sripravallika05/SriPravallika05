@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Sri Pravallika Malla</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW11dWMwdW1ob2l3bGhnczNhOGRwY3B1NmRibnU4NTZka3Z0bGY4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sripravallika05&label=Profile%20views&color=0e75b6&style=flat" alt="sripravallika05" /> </p>
@@ -21,10 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sri-pravallika-malla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sri-pravallika-malla/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/pravallikajas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pravallikajas" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/pravallikajas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pravallikajas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/pravallikajas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pravallikajas/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pravallikajas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pravallikajas/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pravallika's stories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pravallika's stories" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sripravallika05&show_icons=true&locale=en" alt="sripravallika05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sripravallika05&" alt="sripravallika05" /></p>
-
