@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **data structures and machine learning**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sri-pravallika-malla/**
+- 📫 How to reach me **pravallikajas@gmail.com**
 
-- 📄 Know about my experiences [Resume__Sri_pravallika_Malla.pdf](Resume__Sri_pravallika_Malla.pdf)
+- 📄 Know about my experiences [Resume](Resume__Sri_pravallika_Malla.pdf)
 
 - ⚡ Fun fact **I Think I'm Easily Adaptable**
 
