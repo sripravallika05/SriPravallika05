@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pravallikajas@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume__Sri_pravallika_Malla.pdf)
+- 📄 Know about my experiences [ My Resume](Resume__Sri_pravallika_Malla.pdf)
 
 - ⚡ Fun fact **I Think I'm Easily Adaptable**
 
